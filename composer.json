@@ -1,15 +1,11 @@
 {
-    "name": "rachidlaasri/laravel-installer",
+    "name": "elimuswift/installer",
     "description": "Laravel web installer",
     "license": "MIT",
     "authors": [
         {
-            "name": "Rachid Laasri",
-            "email": "rashidlaasri@gmail.com"
-        },
-        {
-            "name": "Jeremy Kenedy",
-            "email": "jeremykenedy@gmail.com"
+            "name": "Albert Leitato",
+            "email": "wizqydy@gmail.com"
         }
     ],
     "require": {
